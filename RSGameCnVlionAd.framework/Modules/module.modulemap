@@ -1,0 +1,6 @@
+framework module RSGameCnVlionAd {
+  umbrella header "RSGameCnVlionAd.h"
+
+  export *
+  module * { export * }
+}
